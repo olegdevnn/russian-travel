@@ -1,3 +1,4 @@
+@import url(./__box/lead__box.css);
 @import url(./__caption/lead__caption.css);
 @import url(./__image/lead__image.css);
 @import url(./__subtitle/lead__subtitle.css);
@@ -9,7 +10,7 @@
 
 @media (min-width: 1024px) and (max-width: 1279px) {
     .lead {
-        padding: 48px 0 0 0;
+        padding: 48px 48px 0 48px;
     }
 }
 
