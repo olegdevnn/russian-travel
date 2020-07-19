@@ -13,13 +13,13 @@
    transition: background-color 1s linear;
 }
 
-@media (min-width: 1024px) and (max-width: 1279px) {
+@media (max-width: 1279px) {
     .cover__link {
         padding: 195px 0;
     }
 }
 
-@media (min-width: 768px) and (max-width: 1023px) {
+@media (max-width: 1023px) {
     .cover__link {
         padding: 115px 0;
     }
